@@ -102,7 +102,7 @@ endmodule
 ![Screenshot 2025-05-21 155538](https://github.com/user-attachments/assets/187ebe28-40e2-44b2-9b78-d08bdc67d62c)
 
 ### Simulation Waveforms
-![Screenshot 2025-05-21 155512](https://github.com/user-attachments/assets/4d1457be-ef30-4b8b-a58d-aa8ac39c078c)
+![WhatsApp Image 2025-05-23 at 18 52 22_374a3f5f](https://github.com/user-attachments/assets/9f374ad5-e7dd-4ce5-b168-321a31c64fea)
 
 
 
